@@ -7,7 +7,7 @@
 2. Initialize the Go module by running the following command in your terminal or command prompt:
 
     ```bash
-    go mod init mta-server-optimiser
+    go mod init mta-server-optimisation
     ```
 
    This command creates a `go.mod` file that tracks the project's dependencies.
